@@ -2,14 +2,16 @@
 A queue is a linear structure ADT that follows a particular order in which the operations are performed. The order is First In First Out (FIFO).
 ## Practical Examples:
 - A good example of a queue is any queue of people, in a bank or a shop. Which follows the rule of comes first and gets served first.
+
 ![Queue](https://github.com/TT-talhatariq/Queue-ADT/blob/main/quue.png)
 
 
 ## Operations on Queue:
 Following basic operations are performed on queue:
-→ Enqueue(): Adds an item to the queue.
-→ Dequeue(): Removes an item from the queue
-→ IsEmpty (): Queues is empty of not
+- Enqueue(): Adds an item to the queue.
+- Dequeue(): Removes an item from the queue
+- IsEmpty (): Queues is empty of not
+
 All operations will be in O(1) time complexity
 ## Types of Queue
 ### 1. Priority Queue
